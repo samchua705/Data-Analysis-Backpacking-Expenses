@@ -1,0 +1,123 @@
+ID,Destination,Date,Description ,Category,Quantity,Unit_Cost,Local_Currency,Pound_Sterling,Total_Spending
+1,Delhi,2024-07-09,Atm Charge,Others,1,236,236,2.13,129.12
+2,Delhi,2024-07-09,Sim Card,Others,1,500,500,4.51,133.63
+3,Delhi,2024-07-09,Taxi,Transportation,1,300,300,2.71,136.34
+4,Delhi,2024-07-09,Metro,Transportation,1,100,100,0.9,137.24
+5,Delhi,2024-07-09,Masala Tea,Food,1,10,10,0.09,137.34
+6,Delhi,2024-07-09,Lassi,Food,1,50,50,0.45,137.79
+7,Delhi,2024-07-09,Dal,Food,1,40,40,0.36,138.15
+8,Delhi,2024-07-09,Pani Puri,Food,1,20,20,0.18,138.33
+9,Delhi,2024-07-09,Metro Card Recharge,Transportation,1,150,150,1.35,139.68
+10,Delhi,2024-07-09,Guidebook,Activities,1,10,10,0.09,139.77
+11,Delhi,2024-07-09,Parantha,Food,1,110,110,0.99,140.76
+12,Delhi,2024-07-09,Momos,Food,1,30,30,0.27,141.04
+13,Delhi,2024-07-09,Snack,Food,1,40,40,0.36,141.4
+15,Agra,2024-07-10,Train (Not Used),Transportation,1,90,90,0.81,142.21
+16,Agra,2024-07-10,Bus,Transportation,1,550,550,4.96,147.17
+17,Agra,2024-07-10,Chicken Briyani,Food,1,120,120,1.08,148.26
+18,Agra,2024-07-10,Water,Food,1,20,20,0.18,148.44
+19,Agra,2024-07-10,Tuktuk,Transportation,1,150,150,1.35,149.79
+20,Agra,2024-07-10,Tips,Transportation,1,50,50,0.45,150.24
+21,Agra,2024-07-10,Phone Repair,Others,1,"2,000.00","2,000.00",18.05,168.29
+22,Agra,2024-07-10,Motorbike Fees,Transportation,1,350,350,3.16,171.45
+23,Agra,2024-07-10,Dinner,Food,1,220,220,1.99,173.44
+24,Agra,2024-07-10,Snack,Food,1,110,110,0.99,174.43
+25,Agra,2024-07-10,Hostel,Lodging,1,285,285,2.57,177
+26,Agra,2024-07-10,Grocery,Grocery,1,30,30,0.27,177.27
+28,Jaipur,2024-07-11,Taj Mahal Entrance,Activities,1,"1,284.82","1,284.82",11.6,188.87
+29,Jaipur,2024-07-11,Bus To Jaipur,Transportation,1,407.95,407.95,3.68,192.55
+30,Jaipur,2024-07-11,Tuktuk,Transportation,1,100,100,0.9,193.45
+31,Jaipur,2024-07-11,Lunch,Food,1,240,240,2.17,195.62
+32,Jaipur,2024-07-11,Snack,Food,1,100,100,0.9,196.52
+33,Jaipur,2024-07-11,Dinner,Food,1,278,278,2.51,199.03
+35,Jaipur,2024-07-12,Lunch,Food,1,160,160,1.44,200.48
+36,Jaipur,2024-07-12,Snack,Food,1,160,160,1.44,201.92
+37,Jaipur,2024-07-12,Transport (Bus),Transportation,1,120,120,1.08,203
+38,Jaipur,2024-07-12,Metro,Transportation,1,22,22,0.2,203.2
+39,Jaipur,2024-07-12,Amber Palace,Activities,1,502,502,4.53,207.73
+40,Jaipur,2024-07-12,Toilet,Others,1,5,5,0.05,207.78
+41,Jaipur,2024-07-12,Dinner,Food,1,120,120,1.08,208.86
+43,Jaipur,2024-07-13,Bus,Transportation,1,"1,259.00","1,259.00",11.36,220.23
+44,Jaipur,2024-07-13,Chai,Food,1,20,20,0.18,220.41
+45,Jaipur,2024-07-13,Grocery,Grocery,1,30,30,0.27,220.68
+46,Jaipur,2024-07-13,Banana,Food,1,30,30,0.27,220.95
+47,Jaipur,2024-07-13,Apple,Food,1,84,84,0.76,221.71
+48,Jaipur,2024-07-13,Gym,Gym,1,200,200,1.81,223.51
+49,Jaipur,2024-07-13,Street Food,Food,1,40,40,0.36,223.87
+50,Jaipur,2024-07-13,Lunch,Food,1,170,170,1.53,225.41
+51,Jaipur,2024-07-13,Ticket,Activities,1,202,202,1.82,227.23
+52,Jaipur,2024-07-13,Milkshake,Food,1,40,40,0.36,227.59
+53,Jaipur,2024-07-13,Parking,Others,1,20,20,0.18,227.77
+54,Jaipur,2024-07-13,Snack,Food,1,10,10,0.09,227.86
+56,Chandigarh,2024-07-14,Null,Null,0,0,0,0,0
+58,Kasol & Tosh,2024-07-15,Grocery,Grocery,1,362,362,3.27,231.13
+59,Kasol & Tosh,2024-07-15,Camp,Lodging,1,400,400,3.61,234.74
+60,Kasol & Tosh,2024-07-15,Breakfast,Food,1,70,70,0.63,235.37
+61,Kasol & Tosh,2024-07-15,Temple,Activities,1,130,130,1.17,236.54
+62,Kasol & Tosh,2024-07-15,Gas,Activities,1,"1,000.00","1,000.00",9.03,245.57
+64,Kasol & Tosh,2024-07-16,Camp,Lodging,1,400,400,3.61,249.18
+65,Kasol & Tosh,2024-07-16,Dinner,Food,1,200,200,1.81,250.98
+66,Kasol & Tosh,2024-07-16,Tea And Snack,Food,1,230,230,2.08,253.06
+68,Manali,2024-07-17,Taxi,Transportation,1,200,200,1.81,254.87
+69,Manali,2024-07-17,Snack,Food,1,80,80,0.72,255.59
+70,Manali,2024-07-17,Local Transport,Transportation,1,210,210,1.9,257.48
+71,Manali,2024-07-17,Banana,Food,1,15,15,0.14,257.62
+72,Manali,2024-07-17,Water,Food,1,20,20,0.18,257.8
+73,Manali,2024-07-17,Siddu,Food,1,200,200,1.81,259.6
+74,Manali,2024-07-17,Milk,Food,1,50,50,0.45,260.06
+75,Manali,2024-07-17,Orange,Food,1,100,100,0.9,260.96
+76,Manali,2024-07-17,Snack,Food,1,70,70,0.63,261.59
+77,Manali,2024-07-17,Hostel,Lodging,1,270,270,2.44,261.59
+79,Manali,2024-07-18,Plum,Food,1,50,50,0.45,262.04
+80,Manali,2024-07-18,Tea,Food,1,20,20,0.18,262.22
+81,Manali,2024-07-18,Entrance,Activities,1,10,10,0.09,262.31
+82,Manali,2024-07-18,Snack,Food,1,40,40,0.36,262.67
+83,Manali,2024-07-18,Water,Food,1,40,40,0.36,263.03
+84,Manali,2024-07-18,Momos,Food,1,80,80,0.72,263.76
+85,Manali,2024-07-18,Dinner,Food,1,220,220,1.99,265.74
+86,Manali,2024-07-18,Gym,Gym,1,150,150,1.35,267.1
+87,Manali,2024-07-18,Cable,Others,1,240,240,2.17,269.26
+88,Manali,2024-07-18,Hostel,Lodging,1,270,270,2.44,271.7
+90,Manali,2024-07-19,Lunch,Food,1,200,200,1.81,273.51
+91,Manali,2024-07-19,Snack,Food,1,70,70,0.63,274.14
+92,Manali,2024-07-19,Tea,Food,1,20,20,0.18,274.32
+93,Manali,2024-07-19,Hostel,Lodging,,270,270,2.44,276.76
+95,Manali,2024-07-20,Bus Ticket To Spiti,Transportation,1,424,424,3.83,280.59
+96,Manali,2024-07-20,Hostel,Lodging,1,270,270,2.44,283.03
+98,Manali,2024-07-21,Coffee,Food,1,10,10,0.09,283.12
+99,Manali,2024-07-21,Laphing,Food,1,60,60,0.54,283.66
+100,Manali,2024-07-21,Gym,Gym,1,200,200,1.81,285.47
+101,Manali,2024-07-21,Hostel,Lodging,,270,270,2.44,287.91
+103,Negra,2024-07-22,Bus,Transportation,1,80,80,0.72,288.63
+104,Negra,2024-07-22,Entrance,Activities,1,50,50,0.45,289.08
+105,Negra,2024-07-22,Cookies,Food,1,60,60,0.54,289.62
+106,Negra,2024-07-22,Food,Food,1,380,380,3.43,293.05
+108,Singola,2024-07-23,Food,Food,1,740,740,6.68,299.73
+109,Singola,2024-07-23,Maggie,Food,1,60,60,0.54,300.27
+111,Solang valley,2024-07-24,Gym,Gym,1,200,200,1.81,302.08
+112,Solang valley,2024-07-24,Grocery,Grocery,1,35,35,0.32,302.4
+113,Solang valley,2024-07-24,Dinner,Food,1,90,90,0.81,303.21
+114,Solang valley,2024-07-24,Bus,Transportation,1,950,950,8.58,311.79
+116,Dharamshala,2024-07-25,Taxi,Transportation,1,400,400,3.61,315.4
+117,Dharamshala,2024-07-25,Lunch,Food,1,220,220,1.99,317.39
+118,Dharamshala,2024-07-25,Snack,Food,1,50,50,0.45,317.84
+119,Dharamshala,2024-07-25,Grocery,Grocery,1,215,215,1.94,319.78
+120,Dharamshala,2024-07-25,Tea,Food,1,50,50,0.45,320.23
+121,Dharamshala,2024-07-25,Pancho,Others,1,200,200,1.81,322.04
+122,Dharamshala,2024-07-25,Cake,Food,1,50,50,0.45,322.49
+124,Dharamshala,2024-07-26,Snack,Food,1,110,110,0.99,323.48
+125,Dharamshala,2024-07-26,Photo,Others,1,50,50,0.45,323.93
+126,Dharamshala,2024-07-26,Phone Repair,Others,1,"4,000.00","4,000.00",36.1,360.03
+127,Dharamshala,2024-07-26,Souvenir,Others,1,100,100,0.9,360.93
+128,Dharamshala,2024-07-26,Momos,Food,1,30,30,0.27,361.2
+129,Dharamshala,2024-07-26,Food,Food,1,120,120,1.08,362.28
+131,Dharamshala,2024-07-27,Sanitary Pad,Others,1,60,60,0.54,362.82
+132,Dharamshala,2024-07-27,Food,Food,1,"2,160.00","2,160.00",19.5,382.32
+133,Dharamshala,2024-07-27,Contact Lens Solutions,Others,1,260,260,2.35,384.67
+135,Delhi,2024-07-28,Null,Null,0,0,0,0,0
+137,Delhi,2024-07-29,Grocery,Grocery,1,270,270,2.44,387.11
+138,Delhi,2024-07-29,Gym,Gym,1,100,100,0.9,388.01
+140,Delhi,2024-07-30,Grocery,Grocery,1,390,390,3.52,391.53
+141,Delhi,2024-07-30,Gym,Gym,1,100,100,0.9,392.43
+143,Delhi,2024-07-31,Food,Food,1,303,303,2.73,395.16
+145,Delhi,2024-08-01,Null,Null,0,0,0,0,395.16

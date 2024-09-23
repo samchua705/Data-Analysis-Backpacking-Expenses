@@ -1,0 +1,82 @@
+0,Destination,Date,Description ,Category,Quantity,Unit_Cost,Local_Currency,Pound_Sterling,Total_Spending
+1,Guatemala City,2024-03-05,Bus- Border To Guatemala City,Transportation,1,10.00,10.00,7.58,7.58
+2,Guatemala City,2024-03-05,Metro Card,Others,1,20.00,20.00,1.97,9.55
+3,Guatemala City,2024-03-05,Food,Food,1,25.00,25.00,2.46,12.01
+4,Guatemala City,2024-03-05,Taxi,Transportation,1,25.00,25.00,2.46,14.47
+5,Guatemala City,2024-03-06,Market,Grocery,1,44.00,44.00,4.33,18.80
+6,Guatemala City,2024-03-06,Fruit,Grocery,1,33.23,33.23,3.27,22.08
+7,Guatemala City,2024-03-06,Souvener,Others,1,10.00,10.00,0.98,23.06
+8,Antigua,2024-03-07,Bus To Antigua,Transportation,1,20.00,20.00,1.97,25.03
+9,Antigua,2024-03-07,Snack,Others,1,9.00,9.00,0.89,25.92
+10,Antigua,2024-03-07,Lunch,Food,1,55.00,55.00,5.42,31.33
+11,Antigua,2024-03-07,Bus,Transportation,1,4.00,4.00,0.39,31.73
+12,Antigua,2024-03-08,Bus,Transportation,1,8.00,8.00,0.79,32.51
+13,Antigua,2024-03-08,Food,Food,1,37.00,37.00,3.64,36.16
+14,Antigua,2024-03-08,Gym,Gym,1,25.00,25.00,2.46,38.62
+15,Antigua,2024-03-09,Pacaya And Acatenango,Activities,1,390.00,390.00,38.41,77.03
+16,Antigua,2024-03-10,Fuergo,Activities,1,200.00,200.00,19.70,96.72
+17,Antigua,2024-03-10,Food,Food,1,20.00,20.00,1.97,98.69
+18,Antigua,2024-03-10,Toiletries,Others,1,3.00,3.00,0.30,98.99
+19,Antigua,2024-03-10,Trail Mixed,Activities,1,20.00,20.00,1.97,100.96
+20,Antigua,2024-03-10,Facial Care,Others,1,15.00,15.00,1.48,102.43
+21,Antigua,2024-03-10,Grocery,Grocery,1,73.48,73.48,7.24,109.67
+22,Antigua,2024-03-10,Souvenir,Others,1,80.00,80.00,7.88,117.55
+23,Antigua,2024-03-11,Tamal,Food,1,3.00,3.00,0.30,117.84
+24,Antigua,2024-03-11,Bus,Transportation,1,8.00,8.00,0.79,118.63
+25,Antigua,2024-03-11,Dessert,Food,1,10.00,10.00,0.98,119.62
+26,Antigua,2024-03-11,Market,Grocery,1,30.00,30.00,2.95,122.57
+27,Antigua,2024-03-11,Hiking Poles,Activities,1,10.00,10.00,0.98,123.56
+28,Antigua,2024-03-12,Grocery,Grocery,1,98.00,98.00,9.65,133.21
+29,Antigua,2024-03-12,Bus,Transportation,1,4.00,4.00,0.39,133.60
+30,Antigua,2024-03-12,Gym,Gym,1,25.00,25.00,2.46,136.06
+31,Antigua,2024-03-12,Contact Lense Solution,Others,1,48.25,48.25,4.75,140.81
+32,Antigua,2024-03-13,Bus,Transportation,1,4.00,4.00,0.39,141.21
+33,Antigua,2024-03-13,Gym,Gym,1,25.00,25.00,2.46,143.67
+34,Antigua,2024-03-13,Grocery,Grocery,1,31.00,31.00,3.05,146.72
+35,Antigua,2024-03-13,Laundry,Others,1,33.00,33.00,3.25,149.97
+36,Lake Atilan,2024-03-14,Bus From Antigua,Transportation,1,38.50,38.50,3.79,153.76
+37,Lake Atilan,2024-03-14,Food,Food,1,27.00,27.00,2.66,156.42
+38,Antigua,2024-03-15,Food,Food,1,41.00,41.00,4.04,160.46
+39,Antigua,2024-03-15,Boat Return,Activities,1,55.00,55.00,5.42,165.88
+40,Antigua,2024-03-15,Gym,Gym,1,20.00,20.00,1.97,167.85
+41,Antigua,2024-03-15,Cookie,Food,1,23.00,23.00,2.27,170.11
+42,Antigua,2024-03-15,Yoga Class,Activities,1,50.00,50.00,4.92,175.03
+43,Antigua,2024-03-15,Grocery,Grocery,1,46.00,46.00,4.53,179.56
+44,Antigua,2024-03-16,Bus,Transportation,1,40.00,40.00,3.94,183.50
+45,Antigua,2024-03-16,Tuktuk,Transportation,1,10.00,10.00,0.98,184.49
+46,Antigua,2024-03-16,Grocery,Grocery,1,116.00,116.00,11.42,195.91
+47,Antigua,2024-03-16,Breakfast,Food,1,11.00,11.00,1.08,197.00
+48,Antigua,2024-03-16,Laundry,Others,1,33.00,33.00,3.25,200.25
+49,Antigua,2024-03-17,Hostel,Lodging,1,75.00,75.00,7.39,207.63
+50,Antigua,2024-03-17,Entrance Hike,Activities,1,30.00,30.00,2.95,210.59
+51,Antigua,2024-03-17,Grocery,Grocery,1,51.50,51.50,5.07,215.66
+52,Antigua,2024-03-17,Snack,Others,1,6.50,6.50,0.64,216.30
+53,Antigua,2024-03-18,Cat Food,Others,1,12.00,12.00,1.18,217.48
+54,Antigua,2024-03-18,Gym,Gym,1,20.00,20.00,1.97,219.45
+55,Antigua,2024-03-18,Street Food,Food,1,36.00,36.00,3.55,222.99
+56,Antigua,2024-03-18,Sanitary Pad,Others,1,6.00,6.00,0.59,223.58
+57,Antigua,2024-03-19,Gym,Gym,1,15.00,15.00,1.48,225.06
+58,Antigua,2024-03-19,Boat,Transportation,1,30.00,30.00,2.95,228.02
+59,Antigua,2024-03-19,Kayak,Activities,1,20.00,20.00,1.97,229.99
+60,Antigua,2024-03-20,Fruit,Grocery,1,28.00,28.00,2.76,232.74
+61,Antigua,2024-03-20,Food,Food,1,30.00,30.00,2.95,235.70
+62,Antigua,2024-03-20,Tamal,Food,1,24.00,24.00,2.36,238.06
+63,Antigua,2024-03-21,Transport,Transportation,1,50.00,50.00,4.92,242.98
+64,Antigua,2024-03-21,Food,Food,1,60.00,60.00,5.91,248.89
+65,Antigua,2024-03-21,Fruit,Grocery,1,8.00,8.00,0.79,249.68
+66,Antigua,2024-03-21,Binbag,Others,1,35.00,35.00,3.45,253.13
+67,Antigua,2024-03-22,Beef Steak,Food,1,130.00,130.00,12.80,265.93
+68,Antigua,2024-03-22,Boat,Transportation,1,30.00,30.00,2.95,268.88
+69,Antigua,2024-03-22,Gym,Gym,1,20.00,20.00,1.97,270.85
+70,Xela,2024-03-23,Breakfast,Food,1,17.50,17.50,1.72,272.58
+71,Xela,2024-03-23,Gym,Gym,1,20.00,20.00,1.97,274.55
+72,Xela,2024-03-24,Bus,Transportation,1,75.00,75.00,7.39,281.93
+73,Xela,2024-03-24,Grocery,Grocery,1,118.00,118.00,11.62,293.55
+74,Xela,2023-03-25,Bus,Transportation,1,62.50,62.50,6.15,299.71
+75,Xela,2023-03-25,Fruit,Grocery,1,14.00,14.00,1.38,301.09
+76,Xela,2023-03-26,Stolen,Others,1,200.00,200.00,151.53,452.61
+77,Xela,2023-03-26,Xela To Huahue,Transportation,1,35.00,35.00,3.45,456.06
+78,Xela,2023-03-26,Huahue To Border,Transportation,1,75.00,75.00,7.39,463.45
+79,Xela,2023-03-26,Mesiya To Gracias Adios,Transportation,1,57.00,57.00,5.61,469.06
+80,Xela,2023-03-26,Food,Transportation,1,96.00,96.00,9.45,478.51
+81,Xela,2023-03-26,Miscellaneous,Others,1,220.00,220.00,21.51,500.02

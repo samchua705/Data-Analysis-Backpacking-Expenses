@@ -1,0 +1,179 @@
+0,Destination,Date,Description ,Category,Quantity,Unit_Cost,Local_Currency,Pound_Sterling,Total_Spending
+1,Galapagos,20/12/2023,Hostal Sumak,Lodging,1,15.15,15.15,11.49,11.49
+2,Galapagos,20/12/2023,Grocerries,Grocery,1,7.9,7.9,5.99,17.47
+3,Galapagos,20/12/2023,Bus Ticket To Guayaquil,Transportation,1,100,100,20.38,37.85
+4,Galapagos,20/12/2023,Uber,Transportation,1,4,4,3.03,40.89
+5,Galapagos,20/12/2023,Sim,Others,1,5,5,3.79,44.68
+6,Galapagos,20/12/2023,Atm Fee,Others,1,1.5,1.5,1.14,45.81
+7,Galapagos,20/12/2023,Entrance Fee To Galapagos,Activities,1,120,120,90.97,136.78
+8,Galapagos,20/12/2023,Transport (Bus & Water Boat) From Airport - Hostel,Transportation,1,7,7,5.31,142.09
+9,Galapagos,20/12/2023,Breakfast ,Food,1,5,5,3.79,145.88
+10,Galapagos,20/12/2023,Lunch,Food,1,10.5,10.5,7.96,153.84
+11,Galapagos,20/12/2023,Flight Ticket,Transportation,1,105.75,105.75,80.17,234.01
+12,Galapagos,21/12/2023,Ferry Ticket To Isabela,Transportation,1,30,30,22.74,256.75
+13,Galapagos,21/12/2023,Entrance Fee,Transportation,1,10,10,7.58,264.33
+14,Galapagos,21/12/2023,Groceries ,Grocery,1,10,10,7.58,271.91
+15,Galapagos,21/12/2023,Water Boat,Transportation,1,5,5,3.79,275.7
+16,Galapagos,22/12/2023,Flight Ticket Back To Quito,Transportation,1,,,133.48,409.18
+17,Galapagos,22/12/2023,Ferry Ticket Back To Santa Cruz  ,Transportation,1,30,30,22.74,431.93
+18,Galapagos,22/12/2023,Water Boat And Transport To Baltra Island,Transportation,1,5,5,3.79,435.72
+19,Galapagos,22/12/2023,Food,Food,1,5,5,3.79,439.51
+20,Galapagos,23/12/2023,Top-Up,Others,1,2.5,2.5,1.9,441.4
+21,Galapagos,23/12/2023,Repellent,Others,1,3.5,3.5,2.65,444.06
+22,Galapagos,23/12/2023,Grocery,Grocery,1,4,4,3.03,447.09
+23,Galapagos,24/12/2023,Grocery,Grocery,1,1.75,1.75,1.33,448.42
+24,Galapagos,24/12/2023,Cream For Scars,Others,1,3.25,3.25,2.46,450.88
+25,Galapagos,25/12/2023,Xmas,Activities,1,21,21,15.92,466.8
+26,Galapagos,25/12/2023,Gym,Gym,1,2,2,1.52,468.32
+27,Galapagos,26/12/2023,Gym,Gym,1,2,2,1.52,469.83
+28,Galapagos,26/12/2023,Snack,Food,1,3,3,2.27,472.11
+29,Galapagos,26/12/2023,Top-Up,Others,1,5,5,3.79,475.9
+30,Galapagos,27/12/2023,Grocery,Grocery,1,6.5,6.5,4.93,480.82
+31,Galapagos,27/12/2023,Gym,Gym,1,2,2,1.52,482.34
+32,Galapagos,28/12/2023,Gym,Gym,1,2,2,1.52,483.86
+33,Galapagos,28/12/2023,Pharmacy,Others,1,3.75,3.75,2.84,486.7
+34,Galapagos,28/12/2023,Egg,Grocery,1,1,1,0.76,487.46
+35,Galapagos,29/12/2023,Pharmacy,Others,1,3.25,3.25,2.46,489.92
+36,Galapagos,29/12/2023,Fruit,Grocery,1,1,1,0.76,490.68
+37,Galapagos,30/12/2023,New Year Eve Eat Out,Activities,1,10,10,7.58,498.26
+38,Galapagos,30/12/2023,Alcohol,Activities,1,5,5,3.79,502.05
+39,Galapagos,31/12/2023,Grocery,Grocery,1,2.25,2.25,1.71,503.76
+40,Galapagos,01/01/2024,Pan De Yuca,Food,1,3,3,2.27,506.03
+41,Galapagos,01/01/2024,Grocery,Grocery,1,2.25,2.25,1.71,507.74
+42,Galapagos,01/01/2024,Gym,Gym,1,2,2,1.52,509.25
+43,Galapagos,01/01/2024,Top Up,Others,1,3.25,3.25,2.46,511.72
+44,Galapagos,02/01/2024,Bike,Activities,1,10,10,7.58,519.3
+45,Galapagos,02/01/2024,Gym,Gym,1,2,2,1.52,520.81
+46,Galapagos,02/01/2024,Food,Food,1,7.65,7.65,5.8,526.61
+47,Galapagos,02/01/2024,Flight,Transportation,1,40,40,30.32,556.94
+48,Galapagos,03/01/2024,Grocery,Grocery,1,7.5,7.5,5.69,562.62
+49,Galapagos,04/01/2024,Souvenier,Others,1,5,5,3.79,566.41
+50,Galapagos,04/01/2024,Grocery,Grocery,1,2,2,1.52,567.93
+51,Galapagos,05/01/2024,Food,Food,1,3.75,3.75,2.84,570.77
+52,Galapagos,05/01/2024,Top Up,Others,1,3,3,2.27,573.05
+53,Galapagos,05/01/2024,Water Boat,Transportation,1,3,3,2.27,575.32
+54,Galapagos,05/01/2024,Shuttle Bus,Transportation,1,10,10,7.58,582.9
+55,Quito,06/01/2024,Shuttle Bus Airport To Quito City Center,Transportation,1,13.5,13.5,10.23,593.14
+56,Quito,06/01/2024,Grocery,Grocery,1,5.75,5.75,4.36,597.49
+57,Quito,06/01/2024,Food,Food,1,3,3,2.27,599.77
+58,Quito,06/01/2024,Community Hostel,Lodging,1,8.55,8.55,6.48,606.25
+59,Quito,07/01/2024,Grocery,Grocery,1,4.5,4.5,3.41,609.66
+60,Quito,07/01/2024,Lunch,Food,1,5,5,3.79,613.45
+61,Quito,07/01/2024,Pharmacy,Others,1,6.5,6.5,4.93,618.38
+62,Quito,07/01/2024,Community Hostal,Lodging,1,8.55,8.55,6.48,624.86
+63,Quito,08/01/2024,Community Hostal,Lodging,1,10.45,10.45,7.92,632.78
+64,Quito,08/01/2024,Gym,Gym,1,2.5,2.5,1.9,634.68
+65,Quito,08/01/2024,Protein Shake,Gym,1,1.5,1.5,1.14,635.82
+66,Quito,08/01/2024,Grocery,Grocery,1,3,3,2.27,638.09
+67,Quito,08/01/2024,Micellenous ,Others,1,3,3,2.27,640.36
+68,Quito,08/01/2024,Protein Bar,Gym,10,10,10,7.58,647.95
+69,Quito,09/01/2024,Hostel,Lodging,1,8,8,6.06,654.01
+70,Quito,09/01/2024,Egg,Grocery,4,0.5,0.5,0.38,654.39
+71,Quito,09/01/2024,Gym,Gym,1,2.5,2.5,1.9,656.28
+72,Quito,09/01/2024,Food,Food,1,1,1,0.76,657.04
+73,Quito,09/01/2024,Uber,Transportation,1,2.35,2.35,1.78,658.82
+74,Quito,09/01/2024,Pharmacy ,Others,2,6.1,6.1,4.62,663.45
+75,Quito,09/01/2024,Top Up,Others,1,3,3,2.27,665.72
+76,Mindo,10/01/2024,Breakfast,Food,1,3,3,2.27,668
+77,Mindo,10/01/2024,Grocery ,Grocery,1,16.1,15.1,11.45,679.44
+78,Mindo,10/01/2024,Nivea,Others,1,3.5,3.5,2.65,682.1
+79,Mindo,10/01/2024,Hostel Inti Mindo ,Lodging,1,8,8,6.06,688.16
+80,Mindo,11/01/2024,Chocolate Tour,Activities,1,10,10,7.58,695.74
+81,Mindo,11/01/2024,Hostel,Lodging,1,8,8,6.06,701.81
+82,Mindo,11/01/2024,Bus ,Transportation,1,3.6,3.6,2.73,704.54
+83,Mindo,11/01/2024,Uber ,Transportation,1,2.5,2.5,1.9,706.43
+84,Mindo,11/01/2024,Gym,Gym,1,3,3,2.27,708.71
+85,Mindo,11/01/2024,Grocery ,Grocery,1,3,3,2.27,710.98
+86,Mindo,12/01/2024,Hostel,Lodging,1,8,8,6.06,717.05
+87,Mindo,12/01/2024,Waterfall,Activities,1,,,0,717.05
+88,Mindo,12/01/2024,Food,Food,1,5,5,3.79,720.84
+89,Mindo,12/01/2024,Shoes,Others,1,3,3,6.82,727.66
+90,Latacunga,13/01/2024,Bus Back To Quito,Transportation,1,3.6,3.6,16.37,744.03
+91,Latacunga,13/01/2024,Bus To Latucunga,Transportation,1,2.5,2.5,1.9,745.93
+92,Latacunga,13/01/2024,Taxi,Transportation,1,10.5,10.5,34.23,780.16
+93,Latacunga,13/01/2024,Hostel,Lodging,1,6,6,4.55,784.7
+94,Latacunga,13/01/2024,Food,Food,1,5.05,5.05,28.71,813.42
+95,Latacunga,13/01/2024,Gym,Gym,1,3,3,2.27,815.69
+96,Latacunga,14/01/2024,Hostel,Lodging,1,6,6,4.55,820.24
+97,Latacunga,14/01/2024,Pujili Transport ,Transportation,1,1,1,0.76,821
+98,Latacunga,14/01/2024,Food,Food,1,4.3,4.3,3.26,824.26
+99,Latacunga,14/01/2024,Fruit ,Grocery,1,1,1,0.76,825.02
+100,Latacunga,14/01/2024,Grocery ,Grocery,1,7.5,7.5,5.69,830.7
+101,Latacunga,14/01/2024,Protein Powder,Grocery,1,6.5,6.5,4.93,835.63
+102,Latacunga,14/01/2024,Pharmacy ,Others,,22.5,22.5,17.06,852.69
+103,Quituloa Loop,15/01/2024,Hotel Cloud Forest,Lodging,1,15,15,11.37,864.06
+104,Quituloa Loop,15/01/2024,Food,Food,1,2.25,2.25,1.71,865.76
+105,Quituloa Loop,15/01/2024,Bus To Sighcos  ,Transportation,1,2.6,2.6,1.97,867.73
+106,Latacunga,16/01/2024,Hotel Cafe Tiena ,Lodging,1,6,6,4.55,872.28
+107,Latacunga,16/01/2024,Snack,Food,1,3,3,2.27,874.56
+108,Latacunga,16/01/2024,Bus Back To Latacunga From Quiluato Loop,Transportation,1,2.5,2.5,1.9,876.45
+109,Latacunga,16/01/2024,Sunglasses,Others,1,4,4,3.03,879.48
+110,Banos,17/01/2024,Hostal D'Mathias,Lodging,5,6.5,32.5,24.64,904.12
+111,Banos,17/01/2024,Bus (Ambato & Banos),Transportation,2,2.55,2.55,1.93,906.06
+112,Banos,17/01/2024,Taxi,Transportation,1,2.36,2.36,1.79,907.85
+113,Banos,17/01/2024,Gym,Gym,1,3,3,2.27,910.12
+114,Banos,17/01/2024,Food,Food,1,4.5,4.5,3.41,913.53
+115,Banos,17/01/2024,Grocery,Grocery,1,7.6,7.6,5.76,919.29
+116,Banos,18/01/2024,Contact Lens Solution,Others,1,5,5,3.79,923.08
+117,Banos,18/01/2024,Lunch,Food,1,2.5,2.5,1.9,924.98
+118,Banos,18/01/2024,Bus,Transportation,1,1,1,0.76,925.74
+119,Banos,18/01/2024,Entrance To La Casa Tree House,Activities,1,1,1,0.76,926.49
+120,Banos,19/01/2024,Snack,Food,1,2.5,2.5,1.9,928.39
+121,Banos,19/01/2024,Grocery,Grocery,1,4.08,4.08,3.09,931.48
+122,Banos,19/01/2024,Zipline,Activities,1,10,10,7.58,939.06
+123,Banos,19/01/2024,Gym,Gym,1,3,3,2.27,941.34
+124,Banos,20/01/2024,Gym,Gym,1,3,3,2.27,943.61
+125,Banos,20/01/2024,Biking,Activities,1,5,5,3.79,947.4
+126,Banos,20/01/2024,Waterfall Entrance ,Activities,1,4,4,3.03,950.43
+127,Banos,20/01/2024,Snack ,Food,1,3,3,2.27,952.71
+128,Banos,20/01/2024,Truck,Transportation,1,1.5,1.5,1.14,953.85
+129,Cuenca,21/01/2024,Bus To Cuenca ,Transportation,1,11.5,11.5,8.72,962.56
+130,Cuenca,21/01/2024,Hostal,Lodging,1,4,4,3.03,965.6
+131,Cuenca,21/01/2024,Snack,Food,1,2,2,1.52,967.11
+132,Cuenca,21/01/2024,Grocery ,Activities,1,1.4,1.4,1.06,968.17
+133,Cuenca,22/01/2024,Hostal,Lodging,1,5,5,3.79,971.96
+134,Cuenca,22/01/2024,Grocery,Grocery,1,7.4,7.4,5.61,977.57
+135,Cuenca,22/01/2024,Food,Food,1,5.3,5.3,4.02,981.59
+136,Cuenca,22/01/2024,Gym,Gym,1,2.5,2.5,1.9,983.49
+137,Cuenca,23/01/2024,Hostal,Lodging,1,5,5,3.79,987.28
+138,Cuenca,23/01/2024,Gym,Gym,1,3,3,2.27,989.55
+139,Cuenca,23/01/2024,Food,Food,1,7.6,7.6,5.76,995.31
+140,Cuenca,24/01/2024,Bus To Cajas,Transportation,2,3,6,4.55,999.86
+141,Cuenca,24/01/2024,Taxi And Uber,Transportation,2,6,6,4.55,1004.41
+142,Cuenca,24/01/2024,Bus To Latacunga,Transportation,1,11.5,11.5,8.72,1013.13
+143,Cuenca,24/01/2024,Fruit,Food,1,1,1,0.76,1013.89
+144,Cuenca,24/01/2024,Food,Food,1,5.1,5.1,3.87,1017.75
+145,Latacunga,25/01/2024,Market,Grocery,1,4.75,4.75,3.6,1021.35
+146,Latacunga,25/01/2024,Grocery,Grocery,2,7.35,7.35,5.57,1026.93
+147,Latacunga,25/01/2024,Hostel,Lodging,1,5.5,4.5,3.41,1030.34
+148,Latacunga,25/01/2024,Gym,Gym,1,3,3,2.27,1032.61
+149,Latacunga,26/01/2024,Hostel,Lodging,1,5.5,4.5,3.41,1036.02
+150,Latacunga,26/01/2024,Cotopaxi,Activities,1,25,25,18.95,1054.98
+151,Latacunga,26/01/2024,Food (Lunch And Dinner),Food,2,6,6,4.55,1059.52
+152,Latacunga,26/01/2024,Water,Others,1,1,1,0.76,1060.28
+153,Latacunga,27/01/2024,Hostel,Lodging,1,6,6,4.55,1064.83
+154,Latacunga,27/01/2024,Food,Food,1,5.5,5.5,4.17,1069
+155,Latacunga,27/01/2024,Egg,Grocery,1,1,1,0.76,1069.76
+156,Latacunga,27/01/2024,Bus,Transportation,2,3.8,3.8,2.88,1072.64
+157,Quito,28/01/2024,Bus To Quito,Transportation,1,2.5,2.5,1.9,1074.53
+158,Quito,29/01/2024,Bus Ticket,Transportation,5,0.35,1.75,1.33,1075.86
+159,Quito,29/01/2024,Cable Car Entrance,Activities,1,9,9,6.82,1082.68
+160,Quito,29/01/2024,Top Up,Others,1,1.1,1.1,0.83,1083.52
+161,Quito,29/01/2024,Metro,Transportation,1,0.45,0.45,0.34,1083.86
+162,Quito,29/01/2024,Dinner,Food,1,3.5,3.5,2.65,1086.51
+163,Quito,29/01/2024,Snack,Food,1,1.2,1.2,0.91,1087.42
+164,Quito,30/01/2024,Bus,Transportation,2,0.35,7,5.31,1092.73
+165,Quito,30/01/2024,Market,Grocery,1,9.5,9.5,7.2,1099.93
+166,Quito,30/01/2024,Gym,Gym,1,2.5,2.5,1.9,1101.83
+167,Quito,31/01/2024,Grocery,Grocery,1,7.3,7.3,5.53,1107.36
+168,Quito,31/01/2024,Uber,Transportation,1,6.5,6.5,4.93,1112.29
+169,Quito,31/01/2024,Food,Gym,1,5,5,3.79,1116.08
+170,Quito,31/01/2024,Bus,Transportation,1,0.35,0.35,0.27,1116.34
+171,Quito,31/01/2024,Middle Of The World -Ticket,Activities,1,5,5,3.79,1120.13
+172,Quito,31/01/2024,Gift To David,Others,1,7,7,5.31,1125.44
+173,Quito,01/02/2024,Gym,Gym,1,2.5,3,2.27,1127.71
+174,Quito,01/02/2024,Food,Food,1,3,3,2.27,1129.99
+175,Quito,01/02/2024,Souvenir,Others,1,6,6,4.55,1134.54
+176,Quito,01/02/2024,Bus To Quito,Transportation,1,3,3,2.27,1136.81
+177,Quito,01/02/2024,Quito To Airport,Transportation,1,2,2,1.52,1138.33
+178,Quito,01/02/2024,Micellenous ,Others,1,55.6,56.6,42.13,1180.46

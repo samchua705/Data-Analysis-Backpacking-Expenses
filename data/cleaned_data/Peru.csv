@@ -1,0 +1,151 @@
+0,Destination,Date,Description,Category,Quantity,Unit_Cost,Local_Currency,Pound_Sterling,Total_Spending
+1,Cusco,2023-11-10,Hostal Xplorar,Lodging,2,27.50,55.00,11.19,11.19
+2,Cusco,2023-11-10,Eggs,Grocery,2,1.00,2.00,0.41,11.60
+3,Cusco,2023-11-10,Crackers,Grocery,1,1.50,1.50,0.31,11.91
+4,Cusco,2023-11-10,Gym,Gym,1,10.00,10.00,2.04,13.95
+5,Cusco,2023-11-10,Souvenir,Others,1,23.00,23.00,4.68,18.63
+6,Cusco,2023-11-10,Soap,Others,1,3.50,3.50,0.71,19.34
+7,Cusco,2023-11-10,Street Food & Dessert,Food,1,17.00,17.00,3.46,22.80
+8,Cusco,2023-11-10,Lunch,Food,1,8.00,8.00,1.63,24.43
+9,Cusco,2023-11-10,Dinner,Food,1,18.00,18.00,3.66,28.09
+10,Cusco,2023-11-10,Fruit,Food,1,4.50,4.50,0.92,29.01
+11,Cusco,2023-11-10,Empanada,Food,1,7.00,7.00,1.42,30.43
+12,Cusco,2023-11-10,Sim Card,Others,1,40.00,40.00,8.14,38.57
+13,Cusco,2023-11-11,Charger,Others,1,15.00,15.00,3.05,41.62
+14,Cusco,2023-11-11,Breakfast,Food,1,13.30,13.30,2.71,44.33
+15,Cusco,2023-11-11,Dessert,Food,1,10.00,10.00,2.04,46.37
+16,Cusco,2023-11-11,Coffee,Food,1,8.00,8.00,1.63,48.00
+17,Cusco,2023-11-11,Dinner,Food,1,14.00,14.00,2.85,50.85
+18,Cusco,2023-11-11,Gym,Gym,1,10.00,10.00,2.04,52.89
+19,Cusco,2023-11-12,Water ,Others,1,2.50,2.50,0.51,53.40
+20,Cusco,2023-11-12,Cactus Fruit,Grocery,1,1.50,1.50,0.31,53.71
+21,Cusco,2023-11-12,Market,Grocery,1,18.00,18.00,3.66,57.37
+22,Cusco,2023-11-12,Lunch,Food,1,10.00,10.00,2.04,59.41
+23,Cusco,2023-11-12,Horse Ride,Activities,1,25.00,25.00,5.09,64.50
+24,Cusco,2023-11-12,Massage,Activities,1,40.00,40.00,8.14,72.64
+25,Cusco,2023-11-12,Dinner,Food,1,28.00,28.00,5.70,78.34
+26,Cusco,2023-11-12,Hostal,Lodging,1,25.00,25.00,5.09,83.43
+27,Cusco,2023-11-13,Breakfast (Market),Food,1,20.00,20.00,4.07,87.50
+28,Cusco,2023-11-13,Coffee,Food,1,7.00,7.00,1.42,88.92
+29,Cusco,2023-11-13,Gym,Gym,1,10.00,10.00,2.04,90.96
+30,Cusco,2023-11-13,Hostal,Lodging,1,25.00,25.00,5.09,96.05
+31,Cusco,2023-11-13,Grocery ,Grocery,1,45.00,45.00,9.16,105.21
+32,Cusco,2023-11-13,Fruit,Food,1,3.00,3.00,0.61,105.82
+33,Cusco,2023-11-13,Snack,Food,1,8.00,8.00,1.63,107.45
+34,Cusco,2023-11-14,Water ,Food,1,5.00,5.00,1.02,108.47
+35,Cusco,2023-11-14,Transport,Transportation,1,30.00,30.00,6.11,114.58
+36,Cusco,2023-11-14,Cuy,Food,1,50.00,50.00,10.18,124.76
+37,Cusco,2023-11-14,Hot Drink,Food,1,8.00,8.00,1.63,126.39
+38,Cusco,2023-11-14,Hostal,Lodging,4,22.50,90.00,18.32,144.71
+39,Cusco,2023-11-15,Grocery ,Grocery,1,10.00,10.00,2.04,146.75
+40,Cusco,2023-11-15,Street Food,Food,1,10.00,10.00,2.04,148.79
+41,Cusco,2023-11-15,Gym,Gym,1,10.00,10.00,2.04,150.83
+42,Cusco,2023-11-15,Protein Powder,Gym,1,10.00,10.00,2.04,152.87
+43,Cusco,2023-11-15,Laundry ,Others,1,10.00,10.00,2.04,154.91
+44,Cusco,2023-11-16,Street Food,Food,1,5.00,5.00,1.02,155.93
+45,Cusco,2023-11-16,Snack,Food,1,18.00,18.00,3.66,159.59
+46,Cusco,2023-11-16,Groceries,Grocery,1,23.50,23.50,4.78,164.37
+47,Cusco,2023-11-16,Gym,Gym,1,10.00,10.00,2.04,166.41
+48,Cusco,2023-11-17,Hostal,Lodging,2,18.25,36.50,7.43,173.84
+49,Cusco,2023-11-17,Street Food,Food,1,5.00,5.00,1.02,174.86
+50,Cusco,2023-11-17,Groceries,Grocery,1,15.00,15.00,3.05,177.91
+51,Cusco,2023-11-17,Gift,Others,1,63.50,63.50,12.92,190.83
+52,Cusco,2023-11-17,Contact Lens Solutions,Others,1,17.00,17.00,3.46,194.29
+53,Cusco,2023-11-17,Pad Lock,Others,1,5.00,5.00,1.02,195.31
+54,Cusco,2023-11-17,Coffee ,Grocery,1,8.00,8.00,1.63,196.94
+55,Cusco,2023-11-18,Rainbow Mountain,Activities,1,65.00,65.00,13.23,210.17
+56,Cusco,2023-11-18,Entrance Ticket,Activities,1,35.00,35.00,7.12,217.29
+57,Cusco,2023-11-18,Snack,Food,1,10.00,10.00,2.04,219.33
+58,Cusco,2023-11-19,Gym,Gym,1,15.00,15.00,3.05,222.38
+59,Cusco,2023-11-19,Altitude Sickness Pill,Others,1,22.00,22.00,4.48,226.86
+60,Cusco,2023-11-19,Mercado (Breakfast & Fruit),Grocery,1,20.00,20.00,4.07,230.93
+61,Cusco,2023-11-19,Snack For Trekking,Food,1,7.00,7.00,1.42,232.35
+62,Cusco,2023-11-20,5 Days Machu Picchu,Activities,1,155.00,155.00,31.54,263.89
+63,Cusco,2023-11-21,5 Days Machu Picchu,Activities,1,385.38,385.38,292.2,556.09
+64,Cusco,2023-11-22,5 Days Machu Picchu,Activities,1,0.00,0.00,0.00,556.09
+65,Cusco,2023-11-23,5 Days Machu Picchu,Activities,1,0.00,0.00,0.00,556.09
+66,Cusco,2023-11-24,5 Days Machu Picchu,Activities,1,0.00,0.00,0.00,556.09
+67,Cusco,2023-11-25,Groceries,Grocery,1,40.00,40.00,8.14,564.23
+68,Cusco,2023-11-25,Hostel,Lodging,2,45.00,45.00,9.16,573.39
+69,Cusco,2023-11-25,Food,Food,1,40.00,40.00,8.14,581.53
+70,Cusco,2023-11-25,Laundry,Others,1,15.00,15.00,3.05,584.58
+71,Cusco,2023-11-25,Indrive,Transportation,1,7.00,7.00,1.42,586.00
+72,Arequipa,2023-11-26,Bus Ticket To Arequipa,Transportation,1,65.00,65.00,13.23,599.23
+73,Arequipa,2023-11-26,Hostel,Lodging,1,24.00,24.00,4.88,604.11
+74,Arequipa,2023-11-26,Indrive,Transportation,1,8.50,8.50,1.73,605.84
+75,Arequipa,2023-11-26,Food,Food,1,11.00,11.00,2.24,608.08
+76,Arequipa,2023-11-26,Fruit,Grocery,1,6.30,6.30,1.28,609.36
+77,Arequipa,2023-11-26,Dedeorant,Others,1,8.00,8.00,1.63,610.99
+78,Arequipa,2023-11-26,Grocerries,Grocery,2,63.00,63.00,12.82,623.81
+79,Arequipa,2023-11-27,Hostel,Lodging,1,24.00,24.00,4.88,628.69
+80,Arequipa,2023-11-27,Market,Grocery,1,12.00,12.00,2.44,631.13
+81,Arequipa,2023-11-27,Fruit,Grocery,1,5.50,5.50,1.12,632.25
+82,Arequipa,2023-11-27,Gym,Gym,1,4.00,4.00,0.81,633.06
+83,Arequipa,2023-11-27,Anticuchus,Food,2,13.00,26.00,5.29,638.35
+84,Arequipa,2023-11-27,Phone,Others,1,10.00,10.00,2.04,640.39
+85,Arequipa,2023-11-28,Hostel,Lodging,1,24.00,24.00,4.88,645.27
+86,Arequipa,2023-11-28,Transport,Transportation,3,1.00,3.00,0.61,645.88
+87,Arequipa,2023-11-28,Market,Grocery,1,29.00,29.00,5.90,651.78
+88,Arequipa,2023-11-28,Watermelon,Food,1,2.00,2.00,0.41,652.19
+89,Arequipa,2023-11-28,Gym,Gym,1,5.00,5.00,1.02,653.21
+90,Arequipa,2023-11-29,Transport To Colco Canyon,Transportation,2,40.00,80.00,16.28,669.49
+91,Arequipa,2023-11-29,Hostel,Lodging,1,24.00,24.00,4.88,674.37
+92,Arequipa,2023-11-29,Grocery ,Grocery,1,25.00,25.00,5.09,679.46
+93,Arequipa,2023-11-29,Gym,Gym,1,4.00,4.00,0.81,680.27
+94,Arequipa,2023-11-30,Market,Grocery,4,30.30,30.30,6.17,686.44
+95,Arequipa,2023-11-30,Mosquitoes Prevention,Others,2,17.00,17.00,3.46,689.90
+96,Arequipa,2023-11-30,Phone Top Up,Others,1,10.00,10.00,2.04,691.94
+97,Lima ,2023-12-01,Bus Ticket To Lima,Transportation,1,82.00,82.00,16.69,708.63
+98,Lima ,2023-12-01,Hostel,Lodging,1,24.00,24.00,4.88,713.51
+99,Lima ,2023-12-01,Lunch,Food,1,37.30,37.30,7.59,721.10
+100,Lima ,2023-12-01,Sanitary Pad,Grocery,1,4.90,4.90,1.00,722.10
+101,Lima ,2023-12-01,Gym,Gym,1,15.00,15.00,3.05,725.15
+102,Lima ,2023-12-01,In Drive ,Transportation,1,10.00,10.00,2.04,727.19
+103,Lima ,2023-12-01,Top Up ,Others,1,5.00,5.00,1.02,728.21
+104,Lima ,2023-12-02,Ceviche,Food,1,65.00,65.00,13.23,741.44
+105,Lima ,2023-12-02,Bus,Transportation,1,2.20,2.20,0.45,741.89
+106,Lima ,2023-12-02,Clubbing,Activities,1,5.00,5.00,1.02,742.91
+107,Lima ,2023-12-03,Lunch,Food,1,17.00,17.00,3.46,746.37
+108,Lima ,2023-12-03,China Town,Food,1,10.50,10.50,2.14,748.51
+109,Lima ,2023-12-03,Dinner,Food,1,10.50,10.50,2.14,750.65
+110,Amazona,2023-12-04,Flight Ticket To Iquitos,Transportation,1,589.78,589.78,124.86,875.51
+111,Amazona,2023-12-05,Amazon Tour,Activities,1,550.00,550.00,111.93,987.44
+112,Amazona,2023-12-06,Hostel,Lodging,1,30.00,30.00,6.11,993.55
+113,Amazona,2023-12-07,Tuktuk ,Transportation,1,12.00,12.00,2.44,995.99
+114,Amazona,2023-12-08,Indrive,Transportation,1,18.00,18.00,3.66,999.65
+115,Amazona,2023-12-09,Food,Food,1,22.00,22.00,4.48,"1,004.13"
+116,Amazona,2023-12-09,Souvenir ,Others,1,10.00,10.00,2.04,"1,006.17"
+117,Amazona,2023-12-09,Laundry ,Others,1,20.00,20.00,4.07,"1,010.24"
+118,Amazona,2023-12-09,Ayahuasca,Activities,1,200.00,200.00,40.70,"1,050.94"
+119,Amazona,2023-12-09,Gym,Gym,1,10.00,10.00,2.04,"1,052.98"
+120,Amazona,2023-12-09,Transport - Indrive ,Transportation,1,34.50,34.50,7.02,"1,060.00"
+121,Amazona,2023-12-09,Lunch,Food,1,13.00,13.00,2.65,"1,062.65"
+122,Amazona,2023-12-09,Top Up ,Others,1,11.00,11.00,2.24,"1,064.89"
+123,Huaraz ,2023-12-10,Collectivo ,Transportation,1,8.00,8.00,1.63,"1,066.52"
+124,Huaraz ,2023-12-11,Tuna ,Grocery,1,9.00,9.00,1.83,"1,068.35"
+125,Huaraz ,2023-12-12,Entrance ,Activities,1,60.00,60.00,12.21,"1,080.56"
+126,Huaraz ,2023-12-13,Santa Cruz Trek,Activities,4,60.00,60.00,45.44,"1,126.00"
+127,Huaraz ,2023-12-14,Hostel,Lodging,3,20.00,60.00,12.21,"1,138.21"
+128,Huaraz ,2023-12-14,Breakfast And Lunch,Food,1,25.00,25.00,5.09,"1,143.30"
+129,Huaraz ,2023-12-14,Groceries,Grocery,4,15.00,60.00,12.21,"1,155.51"
+130,Huaraz ,2023-12-14,Gym,Gym,1,8.00,8.00,1.63,"1,157.14"
+131,Huaraz ,2023-12-15,Gym,Gym,1,8.00,8.00,1.63,"1,158.77"
+132,Huaraz ,2023-12-15,Fruit,Grocery,1,14.00,14.00,2.85,"1,161.62"
+133,Huaraz ,2023-12-15,Sundries,Grocery,1,3.00,3.00,0.61,"1,162.23"
+134,Huaraz ,2023-12-15,Bouldering,Activities,1,10.00,10.00,2.04,"1,164.27"
+135,Huaraz ,2023-12-16,Glacier Tour,Activities,1,80.00,80.00,16.28,"1,180.55"
+136,Huaraz ,2023-12-16,Snack,Food,1,12.00,12.00,2.44,"1,182.99"
+137,Huaraz ,2023-12-16,Laguna Churup ,Activities,1,50.00,50.00,10.18,"1,193.17"
+138,Huaraz ,2023-12-16,Gym ,Gym,1,18.00,18.00,3.66,"1,196.83"
+139,Huaraz ,2023-12-16,Paulina ,Food,1,15.00,15.00,3.05,"1,199.88"
+140,Mancora,2023-12-17,Bus Ticket To Trujilo,Transportation,1,67.00,67.00,13.64,"1,213.52"
+141,Mancora,2023-12-17,Food,Food,1,25.00,25.00,5.09,"1,218.61"
+142,Mancora,2023-12-17,Ticket To Mancora ,Transportation,1,75.00,75.00,15.26,"1,233.87"
+143,Mancora,2023-12-18,Food,Food,1,34.50,34.50,7.02,"1,240.89"
+144,Mancora,2023-12-18,Sundries,Grocery,1,5.00,5.00,1.02,"1,241.91"
+145,Mancora,2023-12-18,Bus Ticket To Guayepil,Transportation,1,100.00,100.00,20.35,"1,262.26"
+146,Mancora,2023-12-19,Camp,Lodging,1,20.00,20.00,4.07,"1,266.33"
+147,Mancora,2023-12-19,Gym,Gym,1,10.00,10.00,2.04,"1,268.37"
+148,Mancora,2023-12-19,Lunch,Food,2,35.00,35.00,7.12,"1,275.49"
+149,Mancora,2023-12-19,Dinner,Food,2,19.00,19.00,3.87,"1,279.36"
+150,Mancora,2023-12-19,Pharmacy,Others,1,50.00,50.00,10.18,"1,289.54"

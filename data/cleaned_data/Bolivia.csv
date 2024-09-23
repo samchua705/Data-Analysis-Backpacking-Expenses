@@ -1,0 +1,131 @@
+0,Destination,Date,Description ,Category,Quantity,Unit_Cost,Local_Currency,Pound_Sterling,Total_Spending
+1,Santa Cruz,13/10/2023,Hostel,Lodging,4,85,340,37.53,37.53
+2,Santa Cruz,14/10/2023,Airport Pick Up,Transportation,1,40,40,4.42,41.95
+3,Santa Cruz,15/10/2023,Gym,Gym,1,10,30,3.31,45.26
+4,Santa Cruz,16/10/2023,Sim Card & Internet,Other,10,9,90,9.93,55.19
+5,Santa Cruz,16/10/2023,Sundries,Other,30,1.87,56.04,6.19,61.38
+6,Santa Cruz,16/10/2023,Atm Charge,Other,1,7,7,0.77,62.15
+7,Santa Cruz,16/10/2023,Amusement Park ,Activities,1,46,46,5.08,67.23
+8,Santa Cruz,16/10/2023,Samaipata - Collectivo,Transportation,2,30,60,6.62,73.85
+9,Santa Cruz,16/10/2023,Museo ,Activities,1,4,4,0.44,74.29
+10,Santa Cruz,16/10/2023,Food,Food,1,120,120,13.25,87.54
+11,Cochabamba,17/10/2024,Bus Ticket ,Transportation,1,73,73,8.06,95.6
+12,Cochabamba,18/10/2024,Dinner And Snacks ,Food,1,23,23,2.54,98.14
+13,Cochabamba,19/10/2024,Sandboarding ,Activities,1,200,200,22.08,120.22
+14,Cochabamba,20/10/2024,Grocerries ,Grocery,2,33.5,67,7.4,127.62
+15,Cochabamba,20/10/2024,Food,Food,1,57.5,57.5,6.35,133.97
+16,Cochabamba,20/10/2024,Contact Lens Solutions,Other,1,60,60,6.62,140.59
+17,Cochabamba,20/10/2024,Gym,Gym,1,10,10,1.1,141.69
+18,Cochabamba,20/10/2024,Idrive ,Transportation,1,25,25,2.76,144.45
+19,Cochabamba,20/10/2024,Huminta,Food,2,7,14,1.55,146
+20,Cochabamba,20/10/2024,Nanas ,Food,1,2,2,0.22,146.22
+21,Cochabamba,20/10/2024,Toilet ,Other,1,1,1,0.11,146.33
+22,Cochabamba,20/10/2024,Water,Other,1,10,10,1.1,147.43
+23,Cochabamba,20/10/2024,Collectivo ,Transportation,4,6,24,2.65,150.08
+24,Cochabamba,20/10/2024,Water Boat,Activities,1,15,15,1.66,151.74
+25,Cochabamba,20/10/2024,Popcorn,Food,1,5,5,0.55,152.29
+26,Cochabamba,20/10/2024,Hipermaxi ,Grocery,4,10,40,4.42,156.71
+27,Cochabamba,20/10/2024,Gym,Gym,1,10,10,1.1,157.81
+28,Cochabamba,20/10/2024,Snacks,Food,2,7,7,0.77,158.58
+29,Cochabamba,20/10/2024,Bus Ticket To Sucre,Transportation,1,92,92,10.16,168.74
+30,Cochabamba,20/10/2024,Bread For Host,Other,1,9,9,0.99,169.73
+31,Cochabamba,20/10/2024,Indrive To Bus Station,Transportation,1,13,13,1.43,171.16
+32,Sucre ,21/10/2023,Market (Fruits & Cheese & Pasta),Grocery,3,32,32,3.53,174.69
+33,Sucre ,22/10/2023,Nail Clipper,Other,1,7,7,0.77,175.46
+34,Sucre ,23/10/2023,Lucky Cookies,Other,2,2,4,0.44,175.9
+35,Sucre ,24/10/2023,Supermarket,Grocery,1,68,68,7.51,183.41
+36,Sucre ,24/10/2023,Airbnb,Lodging,4,40,170,18.76,202.17
+37,Sucre ,24/10/2023,Indrive,Transportation,1,5,5,0.55,202.72
+38,Sucre ,24/10/2023,Indrive,Transportation,1,6,6,0.66,203.38
+39,Sucre ,24/10/2023,3 Days Uyuni Tour,Activities,1,55,55,6.07,209.45
+40,Sucre ,24/10/2023,Photo,Activities,1,25,25,2.76,212.21
+41,Sucre ,24/10/2023,Gym,Gym,1,10,10,1.1,213.31
+42,Sucre ,24/10/2023,Cocao,Food,1,10,10,1.1,214.41
+43,Sucre ,24/10/2023,Street Food,Food,1,5,5,0.55,214.96
+44,Sucre ,24/10/2023,Swimming Pool,Dating,1,20,20,2.21,217.17
+45,Sucre ,24/10/2023,Taxi,Transportation,1,6,6,0.66,217.83
+46,Sucre ,24/10/2023,Restaurant,Food,1,85,85,9.38,227.21
+47,Sucre ,24/10/2023,Internet,Other,1,10,10,1.1,228.31
+48,Sucre ,24/10/2023,Market,Grocery,1,7,7,0.77,229.08
+49,Sucre ,24/10/2023,Snack,Food,1,5,5,0.55,229.63
+50,Sucre ,24/10/2023,Taxi,Transportation,1,5,5,0.55,230.18
+51,Sucre ,24/10/2023,Banana Shake & Fast Food,Food,1,45,45,4.97,235.15
+52,Uyuni,25/10/2023,Taxi,Lodging,1,5,5,0.55,235.7
+53,Uyuni,26/10/2023,Huminta,Food,1,10,10,1.1,236.8
+54,Uyuni,27/10/2023,Accom,Lodging,1,40,40,4.42,241.22
+55,Uyuni,28/10/2023,Apple,Grocery,1,10,10,1.1,242.32
+56,Uyuni,28/10/2023,Peanut,Grocery,1,5,5,0.55,242.87
+57,Uyuni,28/10/2023,Sundries,Grocery,1,23.5,23.5,2.59,245.46
+58,Uyuni,28/10/2023,Food,Food,1,30,30,3.31,248.77
+59,Uyuni,28/10/2023,3 Days Uyuni Tour,Activities,1,700,700,77.27,326.04
+60,Uyuni,28/10/2023,Photo,Activities,1,20,20,2.21,328.25
+61,Uyuni,28/10/2023,Sprite,Other,1,10,10,1.1,329.35
+62,Uyuni,28/10/2023,Bano,Other,1,9,9,0.99,330.34
+63,Uyuni,28/10/2023,Cactus Lane,Activities,1,30,30,3.31,333.65
+64,Uyuni,28/10/2023,Snacks,Food,1,17,17,1.88,335.53
+65,Uyuni,28/10/2023,Reserva,Activities,1,150,150,16.56,352.09
+66,Uyuni,28/10/2023,Food,Food,1,60,60,6.62,358.71
+67,Uyuni,28/10/2023,Bus Ticket To La Paz,Transportation,1,50,50,5.52,364.23
+68,La Paz,29/10/2023,Hostel,Lodging,2,61,122,13.47,377.7
+69,La Paz,30/10/2023,Fruit ,Grocery,1,10,10,1.1,378.8
+70,La Paz,30/10/2023,Sim Card,Other,1,35,35,3.86,382.66
+71,La Paz,30/10/2023,Food,Food,1,20,20,2.21,384.87
+72,La Paz,31/10/2023,Huayna Potosi,Activities,1,"1,000.00","1,000.00",110.38,495.25
+73,La Paz,01/11/2023,Huayna Potosi,Activities,1,0,0,0,495.25
+74,La Paz,02/11/2023,Wreestling ,Activities,1,90,90,9.93,505.18
+75,La Paz,03/11/2023,Hostal,Lodging,2,45,90,9.93,515.11
+76,La Paz,03/11/2023,Market,Grocery,1,17.5,17.5,1.93,517.04
+77,La Paz,03/11/2023,Tour And Tips,Activities,1,40,40,4.42,521.46
+78,La Paz,04/11/2023,Snack,Food,1,11,11,1.21,522.67
+79,La Paz,04/11/2023,Gym,Gym,1,20,20,2.21,524.88
+80,La Paz,04/11/2023,Milk,Grocerries,1,9.5,9.5,1.05,525.93
+81,La Paz,04/11/2023,Mini Bus,Transportation,1,8.5,8.5,0.94,526.87
+82,La Paz,04/11/2023,Lunch,Food,1,12,12,1.32,528.19
+83,La Paz,04/11/2023,Water,Other,3,1,3,0.33,528.52
+84,La Paz,04/11/2023,Market,Grocery,1,11.5,11.5,1.27,529.79
+85,La Paz,04/11/2023,Pharmacy,Other,1,38.2,38.2,4.22,534.01
+86,La Paz,05/11/2023,Supermarket,Grocery,1,26.6,26.6,2.94,536.95
+87,La Paz,05/11/2023,Mask,Other,1,25,25,2.76,539.71
+88,La Paz,05/11/2023,Supermarket ,Grocery,1,12,12,1.32,541.03
+89,La Paz,05/11/2023,Market,Grocery,1,23,23,2.54,543.57
+90,La Paz,05/11/2023,Snack ,Food,1,22.5,22.5,2.48,546.05
+91,La Paz,05/11/2023,Gym,Gym,1,20,20,2.21,548.26
+92,La Paz,05/11/2023,Protein Bars,Gym,2,32,32,3.53,551.79
+93,La Paz,06/11/2023,Hostal,Lodging,1,61,61,6.73,558.52
+94,La Paz,06/11/2023,Cholitas Wrestling ,Activities,1,90,90,9.93,568.45
+95,La Paz,06/11/2023,Hostel,Lodging,3,60,171,18.88,587.33
+96,La Paz,06/11/2023,Hostel,Lodging,1,75,75,8.28,595.61
+97,La Paz,07/11/2023,Tip & Entrance (Huayna Potosi),Activities,2,50,100,11.04,606.65
+98,La Paz,07/11/2023,Brushes,Grocery,1,8,8,0.88,607.53
+99,La Paz,07/11/2023,Milk Powder,Grocery,1,10,10,1.1,608.63
+100,La Paz,07/11/2023,Food,Food,1,65,65,7.17,615.8
+101,La Paz,07/11/2023,Water,Other,11,1,11,1.21,617.01
+102,La Paz,07/11/2023,Gym,Gym,2,20,40,4.42,621.43
+103,La Paz,08/11/2023,Banana Shake,Food,1,5,5,0.55,621.98
+104,La Paz,08/11/2023,Snack,Food,1,3,3,0.33,622.31
+105,La Paz,08/11/2023,In Drive,Transportation,1,10,10,1.1,623.41
+106,La Paz,08/11/2023,Souvenier,Other,1,5,5,0.55,623.96
+107,La Paz,08/11/2023,Street Food,Food,3,23,23,2.54,626.5
+108,La Paz,08/11/2023,Food,Food,1,62.5,62.5,6.9,633.4
+109,La Paz,08/11/2023,Phone,Other,1,20,20,2.21,635.61
+110,La Paz,08/11/2023,Breakfast,Food,1,11,11,1.21,636.82
+111,La Paz,08/11/2023,Coco Candy,Other,1,22,22,2.43,639.25
+112,La Paz,08/11/2023,Supermarket,Grocery,1,28.8,28.8,3.18,642.43
+113,La Paz,08/11/2023,Cable Car,Transportation,1,7,7,0.77,643.2
+114,La Paz,08/11/2023,In Drive,Transportation,1,18,18,1.99,645.19
+115,La Paz,08/11/2023,Tampon,Other,1,42,42,4.64,649.83
+116,La Paz,08/11/2023,Chocolate ,Food,1,25,25,2.76,652.59
+117,La Paz,08/11/2023,Inflammation Tablet ,Other,1,5,5,0.55,653.14
+118,La Paz,08/11/2023,Food ,Food,1,50,50,5.52,658.66
+119,La Paz,08/11/2023,Bus To Cocacapana ,Transportation,1,30,30,3.31,661.97
+120,La Paz,08/11/2023,Ferry,Transportation,1,2,2,0.22,662.19
+121,La Paz,08/11/2023,Lunch ,Food,1,30,30,3.31,665.5
+122,La Paz,08/11/2023,Ferry To Sun Island ,Transportation,1,25,25,2.76,668.26
+123,La Paz,09/11/2023,Hostel ,Lodging,1,30,30,3.31,671.57
+124,La Paz,09/11/2023,Dinner,Food,1,60,60,6.62,678.19
+125,La Paz,09/11/2023,Meat ,Grocery,1,10,10,1.1,679.29
+126,La Paz,09/11/2023,Lunch,Food,1,40,40,4.42,683.71
+127,La Paz,09/11/2023,Water,Other,1,10,10,1.1,684.81
+128,La Paz,09/11/2023,Sim Card,Other,1,10,10,1.1,685.91
+129,La Paz,09/11/2023,Boat Back To Cocacapana,Transportation,1,40,40,4.42,690.33
+130,La Paz,09/11/2023,Bus To Cusco,Transportation,1,120,120,13.25,703.58

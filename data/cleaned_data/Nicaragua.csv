@@ -1,0 +1,60 @@
+0,Destination,Date,Description ,Category,Quantity,Unit_Cost,Local_Currency,Pound_Sterling,Total_Spending
+1,Granada,2024-02-17,Bus Ticket,Transportation,1,35.00,35.00,26.51,26.51
+2,Granada,2024-02-17,Entrance Fee (Tax),Others,1,14.00,14.00,10.61,37.12
+3,Granada,2024-02-17,Hostel ,Lodging,3,254.00,762.00,15.78,52.90
+4,Granada,2024-02-17,Gym,Gym,3,85.00,255.00,5.28,58.19
+5,Granada,2024-02-17,Street Food,Food,1,52.00,52.00,1.08,59.26
+6,Granada,2024-02-17,Fruit,Food,1,30.00,30.00,0.62,59.89
+7,Granada,2024-02-17,Lunch,Food,1,200.00,200.00,4.14,64.03
+8,Granada,2024-02-17,Pharmacy,Others,1,166.00,166.00,3.44,67.47
+9,Granada,2024-02-18,Snack,Others,1,35.00,35.00,0.73,68.19
+10,Granada,2024-02-18,Grocery,Grocery,1,180.50,180.50,3.74,71.93
+11,Granada,2024-02-18,Food,Food,1,110.00,110.00,2.28,74.21
+12,Granada,2024-02-19,Fruit,Food,1,23.00,23.00,0.48,74.69
+13,Granada,2024-02-19,Food,Food,1,180.00,180.00,3.73,78.42
+14,Granada,2024-02-19,Street Food,Food,1,20.00,20.00,0.41,78.83
+15,Granada,2024-02-19,Toothbrush,Others,1,10.00,10.00,0.21,79.04
+16,Granada,2024-02-19,Papaya,Food,1,20.00,20.00,0.41,79.45
+17,Granada,2024-02-19,Drink,Food,1,120.00,120.00,2.49,81.94
+18,Granada,2024-02-19,Snack ,Food,1,20.00,20.00,0.41,82.35
+19,Nindiri,2021-02-20,Bus To Nindiri,Transportation,1,50.00,50.00,1.04,83.39
+20,Nindiri,2021-02-20,Food,Food,1,250.00,250.00,5.18,88.57
+21,Nindiri,2021-02-20,Volcan Masaya Ticket,Activities,1,366.00,366.00,7.58,96.15
+22,Ometepe,2024-02-21,Bus To Rivas,Transportation,1,100.00,100.00,2.07,98.22
+23,Ometepe,2024-02-21,Motor Taxi,Transportation,1,40.00,40.00,0.83,99.05
+24,Ometepe,2024-02-21,Ometepe Boat And Entrance ,Transportation,1,87.00,87.00,1.80,100.85
+25,Ometepe,2024-02-21,Hostel ,Lodging,1,592.00,592.00,12.26,113.11
+26,Ometepe,2024-02-21,Water,Others,1,30.00,30.00,0.62,113.73
+27,Ometepe,2024-02-22,Motor Bike,Transportation,1,550.00,550.00,11.39,125.13
+28,Ometepe,2024-02-22,Food,Gym,1,190.00,190.00,3.94,129.06
+29,Ometepe,2024-02-22,Street Food,Food,1,20.00,20.00,0.41,129.48
+30,Ometepe,2024-02-22,Hiking Trail Mix ,Activities,1,120.00,120.00,2.49,131.96
+31,Ometepe,2024-02-22,Lunch,Food,1,140.00,140.00,2.90,134.86
+32,Ometepe,2024-02-22,Gasoline,Activities,1,130.00,130.00,2.69,137.56
+33,Ometepe,2024-02-22,Grocery ,Grocery,1,124.25,124.25,2.57,140.13
+34,Ometepe,2024-02-22,Cream For Wound ,Others,1,60.00,60.00,1.24,141.37
+35,Ometepe,2024-02-22,Fine,Activities,,"1,000.00","1,000.00",20.72,162.09
+36,Leon,2024-02-23,Chicken Bus To Managua,Transportation,1,100.00,100.00,2.07,164.16
+37,Leon,2024-02-23,Managua To Leon,Transportation,1,78.00,78.00,1.62,165.78
+38,Leon,2024-02-23,Taxi,Transportation,1,150.00,150.00,3.11,168.88
+39,Leon,2024-02-23,Snack,Food,1,40.00,40.00,0.83,169.71
+40,Leon,2024-02-23,Ferry To San Jorge,Transportation,1,50.00,50.00,1.04,170.75
+41,Leon,2024-02-23,Food ,Food,1,217.00,217.00,4.50,175.24
+42,Leon,2024-02-23,Hostal Ej Jardin,Lodging,1,270.29,270.29,5.60,180.84
+43,Leon,2024-02-24,Grocery,Grocery,1,150.00,150.00,3.11,183.95
+44,Leon,2024-02-24,Snack,Food,1,60.00,60.00,1.24,185.19
+45,Leon,2024-02-24,Pharmacy,Others,1,75.00,75.00,1.55,186.75
+46,Leon,2024-02-25,Hostal Ej Jardin,Lodging,1,270.29,270.29,5.60,192.35
+47,Leon,2024-02-25,Chicken Bus,Transportation,1,15.00,15.00,0.31,192.66
+48,Leon,2024-02-25,Lunch,Food,1,150.00,150.00,3.11,195.76
+49,Leon,2024-02-25,Snack,Food,1,70.00,70.00,1.45,197.21
+50,Leon,2024-02-25,Gym,Gym,1,50.00,50.00,1.04,198.25
+51,Leon,2024-02-26,Gym,Gym,1,40.00,40.00,0.83,199.08
+52,Leon,2024-02-26,Hostal,Lodging,1,298.00,298.00,6.17,205.25
+53,Leon,2024-02-26,Food,Food,1,30.00,30.00,0.62,205.87
+54,Leon,2024-02-26,Snack,Food,1,68.00,68.00,1.41,207.28
+55,Leon,2024-02-26,Lunch,Food,1,170.00,170.00,3.52,210.80
+56,Leon,2024-02-26,Chicken Bus To Nicaragua Border,Transportation,1,2.50,2.50,1.89,212.70
+57,Leon,2024-02-26,Exit Tax,Others,1,3.00,3.00,2.27,214.97
+58,Leon,2024-02-26,Atm Fee,Others,1,6.50,6.50,6.50,221.47
+59,Leon,2024-02-26,Miscellaneous,Others,1,422.00,422.00,8.69,230.16
