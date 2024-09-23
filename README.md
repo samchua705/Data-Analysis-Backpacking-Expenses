@@ -18,5 +18,6 @@ This project aims to provide insights into how much one needs to save for a back
 - `/visualizations`: Tableau dashboard screenshots and links
 
 ## Tableau Public
-- link:
-- screenshot:
+- link: https://public.tableau.com/views/backpacking_expenses_analysis_dashboard/Dashboard2?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+- screenshot: 
+<img width="872" alt="Screenshot 2024-09-23 at 21 49 33" src="https://github.com/user-attachments/assets/9daafa2d-a929-4a4f-90c9-f7c142ed3573">
